@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  watering_frequency: 1
+  weekly_or_monthly: false
+  last_time_watered: 2021-10-01
+  image: MyString
+
+two:
+  name: MyString
+  watering_frequency: 1
+  weekly_or_monthly: false
+  last_time_watered: 2021-10-01
+  image: MyString
